@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.backblaze.erasure.ReedSolomonEncodeDecodeTestSkip" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-20T05:34:34" hostname="DESKTOP-UMBD8IC" time="0.469">
+<testsuite name="com.backblaze.erasure.ReedSolomonEncodeDecodeTestSkip" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-20T05:51:56" hostname="DESKTOP-UMBD8IC" time="0.574">
   <properties/>
-  <testcase name="decode" classname="com.backblaze.erasure.ReedSolomonEncodeDecodeTestSkip" time="0.469"/>
-  <system-out><![CDATA[Read build\resources\test\data\Kafka_The_Definitive_Guide.pdf.0
-Read build\resources\test\data\Kafka_The_Definitive_Guide.pdf.1
-Read build\resources\test\data\Kafka_The_Definitive_Guide.pdf.2
+  <testcase name="decode" classname="com.backblaze.erasure.ReedSolomonEncodeDecodeTestSkip" time="0.574"/>
+  <system-out><![CDATA[Read build\resources\test\data\Kafka_The_Definitive_Guide.pdf.2
 Read build\resources\test\data\Kafka_The_Definitive_Guide.pdf.3
 Read build\resources\test\data\Kafka_The_Definitive_Guide.pdf.4
 Read build\resources\test\data\Kafka_The_Definitive_Guide.pdf.5
